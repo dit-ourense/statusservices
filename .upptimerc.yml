@@ -1,23 +1,18 @@
-# Change these first
-owner: CIAourense # Your GitHub organization or username, where this repository lives
-repo: statusservices # The name of this repository
+owner: CIAourense
+repo: statusservices
 
 sites:
   - name: Web Concello
     url: https://www.ourense.gal
+  - name: Sede electrónica - Concello de Ourense
+    url: https://sede.ourense.gob.es
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: ciaourense.github.io/statusservices
   baseUrl: /statusservices
   logoUrl: https://ourense.gal/static/public/img/logoconcello.be4f95277d1d.png
   name: Web Status - Concello de Ourense
   introTitle: "**Web Status** Concello de Ourense"
-#   introMessage: 
-  navbar:
-    - title: Status
-      href: /
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
