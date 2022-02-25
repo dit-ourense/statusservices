@@ -4,18 +4,20 @@
     "url": "https://www.ourense.gal",
     "icon": "https://favicons.githubusercontent.com/www.ourense.gal",
     "slug": "web-concello",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1419,
-    "timeDay": 1534,
-    "timeWeek": 1427,
-    "timeMonth": 1419,
-    "timeYear": 1419,
-    "dailyMinutesDown": {}
+    "time": 1390,
+    "timeDay": 1039,
+    "timeWeek": 1317,
+    "timeMonth": 1390,
+    "timeYear": 1390,
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   },
   {
     "name": "Sede electrónica - Concello de Ourense",
@@ -34,7 +36,7 @@
     "timeMonth": 892,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2022-02-25": 45,
+      "2022-02-25": 756,
       "2022-02-24": 1440,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
