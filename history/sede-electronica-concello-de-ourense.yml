@@ -1,7 +1,7 @@
 url: https://sede.ourense.gob.es
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-10-09T23:21:06.984Z
+status: up
+code: 200
+responseTime: 1017
+lastUpdated: 2022-10-10T14:49:34.232Z
 startTime: Tue Feb 01 2022 18:27:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
