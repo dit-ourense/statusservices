@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.ourense.gal",
     "slug": "web-concello",
     "status": "up",
-    "uptime": "19.70%",
+    "uptime": "19.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.62%",
+    "uptimeMonth": "62.90%",
     "uptimeYear": "11.29%",
-    "time": 1453,
-    "timeDay": 1991,
-    "timeWeek": 1786,
-    "timeMonth": 1731,
-    "timeYear": 1514,
+    "time": 1454,
+    "timeDay": 1524,
+    "timeWeek": 1749,
+    "timeMonth": 1722,
+    "timeYear": 1524,
     "dailyMinutesDown": {
       "2023-03-01": 28,
       "2023-02-24": 536,
@@ -361,7 +361,8 @@
     "timeMonth": 0,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2023-03-12": 59,
+      "2023-03-13": 56,
+      "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
@@ -724,8 +725,7 @@
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
-      "2022-03-14": 1440,
-      "2022-03-13": 1440
+      "2022-03-14": 1440
     }
   }
 ]
